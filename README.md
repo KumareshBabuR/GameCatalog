@@ -10,11 +10,12 @@ This is a RESTful API for managing a game catalog with CRUD operations
 4. Run `dotnet run`.
 
 ## API Endpoints
-- **GET /api/GetGames**: List all games with optional pagination (`?pageNumber=1&pageSize=10`).
-- **GET /api/GetGame/{id}**: Retrieve a game by ID.
-- **POST /api/PostGame**: Create a new game.
-- **PUT /api/PutGame/{id, Game}**: Update an existing game.
-- **DELETE /api/DeleteGame/{id}**: Delete a game.
+- **GET /api/GamesHub/GetGames**: List all games with optional pagination (`?pageNumber=1&pageSize=10`).
+- **GET /api/GamesHub/GetGame/{id}**: Retrieve a game by ID.
+- **POST /api/GamesHub/PostGame**: Create a new game.
+- **PUT /api/GamesHub/PutGame/{id}**: Update an existing game.
+- **DELETE /api/GamesHub/DeleteGame/{id}**: Delete a game.
+
 
 ## Testing
 Unit tests are available in the Tests directory.
