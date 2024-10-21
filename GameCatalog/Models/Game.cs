@@ -5,7 +5,7 @@
 
         //ID, Title, Genre, Description, Price, Release Date, and Stock Quantity.
                 
-        //ID is identity column.
+        //ID is an an identity column.
         public int ID { get; set; }
         public string Title { get; set; }
         public string Genre { get; set; }

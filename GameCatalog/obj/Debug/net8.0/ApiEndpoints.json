@@ -1,8 +1,50 @@
 [
   {
     "ContainingType": "GameCatalog.Controllers.GamesHubController",
+    "Method": "DeleteGame",
+    "RelativePath": "api/GamesHub/DeleteGame/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GameCatalog.Controllers.GamesHubController",
+    "Method": "GetGame",
+    "RelativePath": "api/GamesHub/GetGame/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GameCatalog.Models.Game",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GameCatalog.Controllers.GamesHubController",
     "Method": "GetGames",
-    "RelativePath": "api/GamesHub",
+    "RelativePath": "api/GamesHub/GetGames",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -33,7 +75,7 @@
   {
     "ContainingType": "GameCatalog.Controllers.GamesHubController",
     "Method": "PostGame",
-    "RelativePath": "api/GamesHub",
+    "RelativePath": "api/GamesHub/PostGame",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -58,34 +100,8 @@
   },
   {
     "ContainingType": "GameCatalog.Controllers.GamesHubController",
-    "Method": "GetGame",
-    "RelativePath": "api/GamesHub/{id}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "GameCatalog.Models.Game",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "GameCatalog.Controllers.GamesHubController",
     "Method": "PutGame",
-    "RelativePath": "api/GamesHub/{id}",
+    "RelativePath": "api/GamesHub/PutGame/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -98,22 +114,6 @@
       {
         "Name": "game",
         "Type": "GameCatalog.Models.Game",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "GameCatalog.Controllers.GamesHubController",
-    "Method": "DeleteGame",
-    "RelativePath": "api/GamesHub/{id}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

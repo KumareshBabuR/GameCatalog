@@ -1,36 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kumaresh_babu\\source\\repos\\GameCatalog\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{50C67B08-5591-4CAD-9E64-5049316D4CEB}|GameCatalog\\GameCatalog.csproj|c:\\users\\kumaresh_babu\\source\\repos\\gamecatalog\\gamecatalog\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50C67B08-5591-4CAD-9E64-5049316D4CEB}|GameCatalog\\GameCatalog.csproj|solutionrelative:gamecatalog\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50C67B08-5591-4CAD-9E64-5049316D4CEB}|GameCatalog\\GameCatalog.csproj|c:\\users\\kumaresh_babu\\source\\repos\\gamecatalog\\gamecatalog\\controllers\\gameshubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50C67B08-5591-4CAD-9E64-5049316D4CEB}|GameCatalog\\GameCatalog.csproj|solutionrelative:gamecatalog\\controllers\\gameshubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kumaresh_babu\\source\\repos\\GameCatalog\\GameCatalog\\Migrations\\20241018072551_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameCatalog\\Migrations\\20241018072551_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50C67B08-5591-4CAD-9E64-5049316D4CEB}|GameCatalog\\GameCatalog.csproj|c:\\users\\kumaresh_babu\\source\\repos\\gamecatalog\\gamecatalog\\gamecatalog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{50C67B08-5591-4CAD-9E64-5049316D4CEB}|GameCatalog\\GameCatalog.csproj|solutionrelative:gamecatalog\\gamecatalog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50C67B08-5591-4CAD-9E64-5049316D4CEB}|GameCatalog\\GameCatalog.csproj|c:\\users\\kumaresh_babu\\source\\repos\\gamecatalog\\gamecatalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{50C67B08-5591-4CAD-9E64-5049316D4CEB}|GameCatalog\\GameCatalog.csproj|solutionrelative:gamecatalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50C67B08-5591-4CAD-9E64-5049316D4CEB}|GameCatalog\\GameCatalog.csproj|c:\\users\\kumaresh_babu\\source\\repos\\gamecatalog\\gamecatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50C67B08-5591-4CAD-9E64-5049316D4CEB}|GameCatalog\\GameCatalog.csproj|solutionrelative:gamecatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50C67B08-5591-4CAD-9E64-5049316D4CEB}|GameCatalog\\GameCatalog.csproj|c:\\users\\kumaresh_babu\\source\\repos\\gamecatalog\\gamecatalog\\data\\gamecatalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50C67B08-5591-4CAD-9E64-5049316D4CEB}|GameCatalog\\GameCatalog.csproj|solutionrelative:gamecatalog\\data\\gamecatalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\kumaresh_babu\\Documents\\GitHub\\GameCatalog\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,98 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20241018072551_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\kumaresh_babu\\source\\repos\\GameCatalog\\GameCatalog\\Migrations\\20241018072551_InitialCreate.cs",
-              "RelativeDocumentMoniker": "GameCatalog\\Migrations\\20241018072551_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\kumaresh_babu\\source\\repos\\GameCatalog\\GameCatalog\\Migrations\\20241018072551_InitialCreate.cs",
-              "RelativeToolTip": "GameCatalog\\Migrations\\20241018072551_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T07:25:51.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\kumaresh_babu\\source\\repos\\GameCatalog\\GameCatalog\\appsettings.json",
-              "RelativeDocumentMoniker": "GameCatalog\\appsettings.json",
-              "ToolTip": "C:\\Users\\kumaresh_babu\\source\\repos\\GameCatalog\\GameCatalog\\appsettings.json",
-              "RelativeToolTip": "GameCatalog\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-18T07:15:59.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kumaresh_babu\\source\\repos\\GameCatalog\\GameCatalog\\Program.cs",
-              "RelativeDocumentMoniker": "GameCatalog\\Program.cs",
-              "ToolTip": "C:\\Users\\kumaresh_babu\\source\\repos\\GameCatalog\\GameCatalog\\Program.cs",
-              "RelativeToolTip": "GameCatalog\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T07:10:33.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GamesHubController.cs",
-              "DocumentMoniker": "C:\\Users\\kumaresh_babu\\source\\repos\\GameCatalog\\GameCatalog\\Controllers\\GamesHubController.cs",
-              "RelativeDocumentMoniker": "GameCatalog\\Controllers\\GamesHubController.cs",
-              "ToolTip": "C:\\Users\\kumaresh_babu\\source\\repos\\GameCatalog\\GameCatalog\\Controllers\\GamesHubController.cs",
-              "RelativeToolTip": "GameCatalog\\Controllers\\GamesHubController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwC8AAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T07:00:07.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GameCatalogContext.cs",
-              "DocumentMoniker": "C:\\Users\\kumaresh_babu\\source\\repos\\GameCatalog\\GameCatalog\\Data\\GameCatalogContext.cs",
-              "RelativeDocumentMoniker": "GameCatalog\\Data\\GameCatalogContext.cs",
-              "ToolTip": "C:\\Users\\kumaresh_babu\\source\\repos\\GameCatalog\\GameCatalog\\Data\\GameCatalogContext.cs",
-              "RelativeToolTip": "GameCatalog\\Data\\GameCatalogContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T06:48:53.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameCatalog",
-              "DocumentMoniker": "C:\\Users\\kumaresh_babu\\source\\repos\\GameCatalog\\GameCatalog\\GameCatalog.csproj",
-              "RelativeDocumentMoniker": "GameCatalog\\GameCatalog.csproj",
-              "ToolTip": "C:\\Users\\kumaresh_babu\\source\\repos\\GameCatalog\\GameCatalog\\GameCatalog.csproj",
-              "RelativeToolTip": "GameCatalog\\GameCatalog.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-18T06:46:23.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\kumaresh_babu\\source\\repos\\GameCatalog\\GameCatalog\\Models\\Game.cs",
-              "RelativeDocumentMoniker": "GameCatalog\\Models\\Game.cs",
-              "ToolTip": "C:\\Users\\kumaresh_babu\\source\\repos\\GameCatalog\\GameCatalog\\Models\\Game.cs",
-              "RelativeToolTip": "GameCatalog\\Models\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T06:44:41.707Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

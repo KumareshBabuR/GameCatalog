@@ -10,7 +10,6 @@ namespace GameCatalog.Data
            : base(options)
         {
         }
-
         public DbSet<GameCatalog.Models.Game> Game { get; set; } = default!;
     }
 }
